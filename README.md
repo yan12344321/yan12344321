@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! 👋
 
 <!--
-**yan12344321/yan12344321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yan12344321/yan12344321** é um repositório ✨ _especial_ ✨ porque o seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em escola
+- 🌱 Atualmente estou aprendendo Livro
+- 👯 Estou buscando colaborar em escola
+- 🤔 Estou procurando ajuda com escola
+- 💬 Pergunte-me sobre escola
+- 📫 Como entrar em contato comigo: escola
+- 😄 Pronomes: ele/dela
+- ⚡ Curiosidade: Estudante da ETEC Padre Carlos Lêoncio.
